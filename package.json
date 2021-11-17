@@ -1,0 +1,27 @@
+{
+  "name": "craco-glslify-loader",
+  "version": "1.0.0",
+  "description": "A craco plugin to use glslify-loader with create-react-app",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "Wasim Almadfaa",
+  "license": "MIT",
+  "keywords": [
+    "craco",
+    "create-react-app",
+    "react",
+    "webpack",
+    "glslify-loader"
+  ],
+  "devDependencies": {
+    "react-scripts": "4.0.3"
+  },
+  "peerDependencies": {
+    "@craco/craco": "^6.4.0",
+    "react-scripts": "4.0.3"
+  },
+  "dependencies": {
+    "raw-loader": "^4.0.2",
+    "glslify-loader": "^2.0.0"
+  }
+}
