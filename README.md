@@ -7,11 +7,11 @@ This is a [craco](https://github.com/sharegate/craco) plugin that makes it easy 
 ## Installation
 
 ```bash
-$ yarn add craco-glslify-loader
+$ yarn add git+https://github.com/wmadfaa/craco-glslify-loader.git
 
 # OR
 
-$ npm install --save craco-raw-loader
+$ npm i --save git+https://github.com/wmadfaa/craco-glslify-loader.git
 ```
 
 ## Basic Usage
